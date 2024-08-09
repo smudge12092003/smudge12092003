@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan S</h1>
 <h3 align="center">Trust the Process...</h3>
 
+- 🔭 I’m interested in **Web Development**
+
 - 🔭 I’m currently working on **Book My Show Web Project**
 
 - 🌱 I’m currently learning **Backend web development**
