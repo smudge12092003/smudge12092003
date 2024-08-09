@@ -3,9 +3,7 @@
 
 - 🔭 I’m interested in **Web Development**
 
-- 🔭 I’m currently working on **Book My Show Web Project**
-
-- 🌱 I’m currently learning **Backend web development**
+- 🌱 I’m currently working on **Book My Show Web Project**
 
 - 📫 How to reach me **darshan.babu1209@gmail.com**
 
