@@ -3,8 +3,6 @@
 
 - 🔭 I’m interested in **Web Development**
 
-- 🌱 I’m currently working on **Book My Show Web Project**
-
 - 📫 How to reach me **darshan.babu1209@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/darshan-s-813903288/](https://www.linkedin.com/in/darshan-s-813903288/)
